@@ -1,4 +1,4 @@
-# -RAFAY-AAMIR-GULL-
+# rafayaamirgull
 
 
 <h1 align="center">Hi 👋, I'm Rafay Aamir</h1>
@@ -10,10 +10,10 @@
 
 <p align="left"> <a href="https://twitter.com/rafayaamir9" target="blank"><img src="https://img.shields.io/twitter/follow/rafayaamir9?logo=twitter&style=for-the-badge" alt="rafayaamir9" /></a> </p>
 
-![Snake animation](https://github.com/RAFAYAAMIR/RAFAYAAMIR/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafayaamirgull/rafayaamirgull/blob/output/github-contribution-grid-snake.svg)
 
 <!---
-RAFAY-AAMIR-GULL/-RAFAY-AAMIR-GULL- is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+rafayaamirgull/rafayaamirgull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
