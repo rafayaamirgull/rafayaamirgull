@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/rafayaamir9" target="blank"><img src="https://img.shields.io/twitter/follow/rafayaamir9?logo=twitter&style=for-the-badge" alt="rafayaamir9" /></a> </p>
 
-![Snake animation](https://github.com/rafayaamirgull/rafayaamirgull/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/rafayaamirgull/rafayaamirgull/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 rafayaamirgull/rafayaamirgull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
