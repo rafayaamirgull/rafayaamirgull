@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in 3D Computer Vision, Humanoids, Neuroscience, and Robot Perception
 - 📫 How to reach me **rafay.aamir.gull@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](rafayaamirgull.github.io)
+- 📄 Know about my experiences [Portfolio](https://rafayaamirgull.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
